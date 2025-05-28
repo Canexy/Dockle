@@ -4,8 +4,8 @@ Este proyecto documenta y automatiza el proceso de migración de una base de dat
 
 ## 📌 Autores
 
-- Mario Valiño Canalejas
-- Álvaro Vázquez Vázquez
+- Mario C.
+- Álvaro V.
 
 ## 📦 Requisitos
 
